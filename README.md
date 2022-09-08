@@ -1,16 +1,29 @@
-### Hi there 👋
+
+<div id="header" align="center">
+	<img src="/Imgs/Header.png"/>
+<div>
+
+_This Profile is still under construction_
 
 <!--
-**Neengash/Neengash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me 
 
-Here are some ideas to get you started:
+Little text Explaining current situation (hobbies, objectives)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Job history: (Header Img)
+* habitissimo
+* Limit Tecnologies
+* TravelgateX
+* Teacher
+
+Projects: (Header Img)
+* Videogames
+* Boardgames
+* Blender
+* Writing (spanish)
+
+Always Learning: (Header Img)
+* Recommended books
+* Some courses done
+
 -->
