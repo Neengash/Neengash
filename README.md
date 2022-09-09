@@ -113,7 +113,9 @@ _Mainly as a practice tool, I've been working on some different projects_
 ## <u>Video games</u>
 
 [<img src="https://static.itch.io/images/logo-black-new.svg" widht="auto" height="50">](https://neengash.itch.io/)
-[<img src="/Imgs/GooglePlay.jpg" widht="auto" height="50">](https://play.google.com/store/apps/developer?id=Neengash)
+[<img src="/Imgs/GooglePlay.png" widht="auto" height="50">](https://play.google.com/store/apps/developer?id=Neengash)
+<!--[<img src="/Imgs/GooglePlay.jpg" widht="auto" height="50">](https://play.google.com/store/apps/developer?id=Neengash)-->
+
 
 _The code for most of those games can be found in my GitHub repos._
 
