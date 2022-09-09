@@ -73,7 +73,7 @@ _Not all skills have been learned through work experience_
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" tittle="unity" alt="unity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" tittle="c++" alt="c++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" tittle="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-<img src="/Imgs/Google_Sheets.svg" tittle="Google Sheets" alt="Google Sheets" width="40" height="40"/>&nbsp;
+<img src="/Imgs/GoogleSheets.png" tittle="Google Sheets" alt="Google Sheets" width="40" height="40"/>&nbsp;
 
 ## <u>Hobbies</u>
 
