@@ -4,15 +4,28 @@
 </div>
 
 <div id="WIP" align="center">
+
 _This Profile is still under construction_
+
 </div>
 
 <div id="about" align="center">
 
-<h1>About</h1>
-<h2>Professional experience</h1>
+# About
 
-**Web developer at habitissimo**
+## <u>Education</u>
+
+**Degree in Computer Engineering (UIB)** 
+
+**Master's degree in Teacher Training (UIB)**
+
+**Video game and virtual reality development with Unity 3D [600h] (Tokio School)**
+
+**Video game design [300h] (Tokio School)**
+
+## <u>Professional experience</u>
+
+**Developer at habitissimo [3 years]**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" tittle="php" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" tittle="symfony" alt="symfony" width="40" height="40"/>&nbsp;
@@ -20,6 +33,7 @@ _This Profile is still under construction_
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" tittle="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" tittle="pytest" alt="pytest" width="40" height="40"/>&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" tittle="selenium" alt="selenium" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="docker" alt="docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="mysql" alt="mysql" width="40" height="40"/>&nbsp;
@@ -27,40 +41,82 @@ _This Profile is still under construction_
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" tittle="vim" alt="vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" tittle="bash" alt="bash" width="40" height="40"/>&nbsp;
 
-
-**Developer at Limit Tecnologies**
+**Developer at Limit Tecnologies [1/2 year]**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="java" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" tittle="github" alt="github" width="40" height="40"/>&nbsp;
 
-**Developer at TravelgateX**
+**Developer at TravelgateX [1/2 year]**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" tittle="c#" alt="c#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" tittle="github" alt="github" width="40" height="40"/>&nbsp;
 
-**Vocational Education Teacher**
+**Vocational Education Teacher [1 academic year]**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="docker" alt="docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" tittle="php" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 
-<h2>Skills</h2>
+## <u>Volunteer Experience</u>
+
+**Outdoor Activities Instructor [4 years]**
+
+**Outdoor Activities Supervisor [1 year]**
+
+## <u>Other Skills</u>
+
+_Not all skills have been learned through work experience_
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" tittle="unity" alt="unity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" tittle="c++" alt="c++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" tittle="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+<img src="/Imgs/Google_Sheets.svg" tittle="Google Sheets" alt="Google Sheets" width="40" height="40"/>&nbsp;
 
+## <u>Hobbies</u>
 
-<h2>Hobbies</h2>
+<table border="0">
+  <tr></tr>
+  <tr>
+    <td>Board Games</td>
+    <td>Sports</td>
+    <td>Reading</td>
+  </tr>
+  <tr>
+    <td>Board Game design</td>
+    <td>Climbing</td>
+    <td>Writing</td>
+  </tr>
+  <tr>
+    <td>Video Games</td>
+    <td>Hiking</td>
+    <td>Drawing</td>
+  </tr>
+  <tr>
+    <td>Video Game Design & Development</td>
+    <td>3D Modelling</td>
+    <td>Painting</td>
+  </tr>
+</table>
 
 </div>
 
 <hr>
 <div id="Projects" align="center">
-<h1>Projects</h1>
+
+# Projects
+
 </div>
+
+<hr>
+<div id="Other Education" align="center">
+
+# Always learning
+
+</div>
+
 <!--
 About me 
 
