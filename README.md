@@ -108,6 +108,20 @@ _Not all skills have been learned through work experience_
 
 # Projects
 
+_Mainly as a practice tool, I've been working on some different projects_
+
+## <u>Video games</u>
+
+[<img src="https://static.itch.io/images/logo-black-new.svg" widht="auto" height="50">](https://neengash.itch.io/)
+[<img src="/Imgs/GooglePlay.jpg" widht="auto" height="50">](https://play.google.com/store/apps/developer?id=Neengash)
+
+_The code for most of those games can be found in my GitHub repos._
+
+_Some of them aren't public repos because of the licensing of some assets used._
+
+_I'm also a member of [G4M30V3R-T34M](https://github.com/G4M30V3R-T34M), a group of friends who participate in gamejams_
+
+
 </div>
 
 <hr>
@@ -137,5 +151,10 @@ Projects: (Header Img)
 Always Learning: (Header Img)
 * Recommended books
 * Some courses done
+
+<details>
+<summary> <img src="https://static.itch.io/images/logo-black-new.svg" widht="auto" height="50"/> </summary>
+This is some text
+</details>
 
 -->
