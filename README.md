@@ -119,6 +119,40 @@ _The code for most of those games can be found in my GitHub repos._
 _Some of them aren't public repos because of the licensing of some assets used._  
 _I'm also a member of [G4M30V3R-T34M](https://github.com/G4M30V3R-T34M), a group of friends who participate in gamejams_
 
+## <u>Board Games</u>
+
+_Among other games I'm currently working on, PEP and Volley Legends are the most polished ones_ 
+
+<table border="0">
+	<tr>
+		<td><img src="Imgs/BoardGames/pep.jpg" tittle="pep" alt="pep" width="auto" height="150"/></td>
+		<td><img src="Imgs/BoardGames/volley.jpg" tittle="volley" alt="volley" width="auto" height="150"/></td>
+	</tr>
+</table>
+
+## <u>3D Design</u>
+
+<table border="0">
+	<tr>
+		<td><img src="Imgs/3D/Robot.png" tittle="robot" alt="robot" width="auto" height="150"/></td>
+		<td><img src="Imgs/3D/Helmet.png" tittle="helmet" alt="helmet" width="auto" height="150"/></td>
+		<td><img src="Imgs/3D/Pendant.png" tittle="pendant" alt="pendant" width="auto" height="150"/></td>
+	</tr>
+	<tr>
+		<td><img src="Imgs/3D/Car.png" tittle="car" alt="car" width="auto" height="150"/></td>
+		<td><img src="Imgs/3D/Chip.png" tittle="chip" alt="chip" width="auto" height="150"/></td>
+		<td><img src="Imgs/3D/Shield.png" tittle="shield" alt="shield" width="auto" height="150"/></td>
+	</tr>
+</table>
+
+## <u>Writing</u>
+
+_All my short stories are written in Spanish_
+
+**La última operación**  
+Published on [Tentacle Pulp](https://www.tentaclepulp.com/index1.php?i=0)
+
+Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash)
 
 </div>
 
