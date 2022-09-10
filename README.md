@@ -84,7 +84,7 @@ _I've done quite some courses from MiriadaX, Edx, Udemy, Coursera and other plat
 
 Among the books I've read, I would really recommend:
 
-<table style="border: none">
+<table>
 	<tr>
 		<td>The Clean Coder (Developers)</td>
 		<td>Project Phoenix (Developers + Devops)</td>
@@ -101,7 +101,7 @@ Among the books I've read, I would really recommend:
 
 ## <u>Hobbies</u>
 
-<table border="0">
+<table>
   <tr></tr>
   <tr>
     <td>Board Games</td>
@@ -139,7 +139,7 @@ Among the books I've read, I would really recommend:
 
 _The code for most of those games can be found in my GitHub repos._  
 _Some of them aren't public repos because of the licensing of some assets used._  
-_I'm also a member of [G4M30V3R-T34M](https://github.com/G4M30V3R-T34M), a group of friends who participate in gamejams_
+_I'm also a member of [G4M30V3R-T34M](https://github.com/G4M30V3R-T34M), a group of friends who participate in Game Jams_
 
 ## <u>Board Games</u>
 
