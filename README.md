@@ -1,10 +1,16 @@
 
 <div align="center">
 
-<picture> <img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="800" height="auto"/> </picture>
+<picture>
+  <img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="800" height="auto"/>
+</picture>
 
 <details>
-  <summary><img src="/Imgs/Sections/About.png" tittle="About" alt="About" width="800" height="auto"/></summary>
+  <summary>
+    <picture>
+      <img src="/Imgs/Sections/About.png" tittle="About" alt="About" width="800" height="auto"/>
+    </picture>
+  </summary>
 
 ## <u>Education</u>
 
@@ -121,7 +127,11 @@ Among the books I've read, I would really recommend:
 </details>
 
 <details>
-  <summary><img src="/Imgs/Sections/Projects.png" tittle="Projects" alt="Projects" width="800" height="auto"/></summary>
+  <summary>
+    <picture>
+      <img src="/Imgs/Sections/Projects.png" tittle="Projects" alt="Projects" width="800" height="auto"/>
+    </picture>
+  </summary>
 
 ## <u>Video games</u>
 
