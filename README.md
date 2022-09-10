@@ -4,7 +4,6 @@
 <picture>
   <img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="800" height="auto"/>
 </picture>
-
 <details>
   <summary>
     <picture>
@@ -125,7 +124,6 @@ Among the books I've read, I would really recommend:
 </table>
 
 </details>
-
 <details>
   <summary>
     <picture>
@@ -169,13 +167,3 @@ Published on [Tentacle Pulp](https://www.tentaclepulp.com/index1.php?i=0)
 Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash)
 
 </details>
-
-
-<!--
-
-<details>
-<summary> <img src="https://static.itch.io/images/logo-black-new.svg" widht="auto" height="50"/> </summary>
-This is some text
-</details>
-
--->
