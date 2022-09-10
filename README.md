@@ -75,6 +75,30 @@ _Not all skills have been learned through work experience_
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" tittle="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="/Imgs/GoogleSheets.png" tittle="Google Sheets" alt="Google Sheets" width="40" height="40"/>&nbsp;
 
+**Always Learning**
+
+_Eventhough practice makes perfect, I believe it helps to have a good foundation to build from_  
+_that's why I love online courses and reading books_
+
+_I've done quite some courses from MiriadaX, Edx, Udemy, Coursera and other platforms related to all kinds of topics_
+
+Among the books I've read, I would really recommend:
+
+<table style="border: none">
+	<tr>
+		<td>The Clean Coder (Developers)</td>
+		<td>Project Phoenix (Developers + Devops)</td>
+	</tr>
+	<tr>
+		<td>Clean Architecture (Developers)</td>
+		<td>Personal Kanban (Project Management + Personal use)</td>
+	</tr>
+	<tr>
+		<td>Head First: Design Patterns (Developers)</td>
+		<td>Level Up! The guide to great game design (Game Designers)</td>
+	</tr>
+</table>
+
 ## <u>Hobbies</u>
 
 <table border="0">
@@ -145,33 +169,7 @@ Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash
 
 </div>
 
-<hr>
-<div id="Other Education" align="center">
-
-# Always learning
-
-</div>
-
 <!--
-About me 
-
-Little text Explaining current situation (hobbies, objectives)
-
-Job history: (Header Img)
-* habitissimo
-* Limit Tecnologies
-* TravelgateX
-* Teacher
-
-Projects: (Header Img)
-* Videogames
-* Boardgames
-* Blender
-* Writing (spanish)
-
-Always Learning: (Header Img)
-* Recommended books
-* Some courses done
 
 <details>
 <summary> <img src="https://static.itch.io/images/logo-black-new.svg" widht="auto" height="50"/> </summary>
