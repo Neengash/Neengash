@@ -108,8 +108,6 @@ _Not all skills have been learned through work experience_
 
 # Projects
 
-_Mainly as practice, I've been working on some different projects_
-
 ## <u>Video games</u>
 
 [<img src="https://static.itch.io/images/logo-black-new.svg" widht="auto" height="50">](https://neengash.itch.io/)
@@ -123,27 +121,18 @@ _I'm also a member of [G4M30V3R-T34M](https://github.com/G4M30V3R-T34M), a group
 
 _Among other games I'm currently working on, PEP and Volley Legends are the most polished ones_ 
 
-<table border="0">
-	<tr>
-		<td><img src="Imgs/BoardGames/pep.jpg" tittle="pep" alt="pep" width="auto" height="150"/></td>
-		<td><img src="Imgs/BoardGames/volley.jpg" tittle="volley" alt="volley" width="auto" height="150"/></td>
-	</tr>
-</table>
+<img src="Imgs/BoardGames/pep.jpg" tittle="pep" alt="pep" width="auto" height="150"/>
+<img src="Imgs/BoardGames/volley.jpg" tittle="volley" alt="volley" width="auto" height="150"/>
 
 ## <u>3D Design</u>
 
-<table border="0">
-	<tr>
-		<td><img src="Imgs/3D/Robot.png" tittle="robot" alt="robot" width="auto" height="150"/></td>
-		<td><img src="Imgs/3D/Helmet.png" tittle="helmet" alt="helmet" width="auto" height="150"/></td>
-		<td><img src="Imgs/3D/Pendant.png" tittle="pendant" alt="pendant" width="auto" height="150"/></td>
-	</tr>
-	<tr>
-		<td><img src="Imgs/3D/Car.png" tittle="car" alt="car" width="auto" height="150"/></td>
-		<td><img src="Imgs/3D/Chip.png" tittle="chip" alt="chip" width="auto" height="150"/></td>
-		<td><img src="Imgs/3D/Shield.png" tittle="shield" alt="shield" width="auto" height="150"/></td>
-	</tr>
-</table>
+<img src="Imgs/3D/Robot.png" tittle="robot" alt="robot" width="auto" height="150"/>
+<img src="Imgs/3D/Helmet.png" tittle="helmet" alt="helmet" width="auto" height="150"/>
+<img src="Imgs/3D/Pendant.png" tittle="pendant" alt="pendant" width="auto" height="150"/>
+
+<img src="Imgs/3D/Car.png" tittle="car" alt="car" width="auto" height="150"/>
+<img src="Imgs/3D/Chip.png" tittle="chip" alt="chip" width="auto" height="150"/>
+<img src="Imgs/3D/Shield.png" tittle="shield" alt="shield" width="auto" height="150"/>
 
 ## <u>Writing</u>
 
