@@ -1,15 +1,3 @@
-<style>
-  details > summary {
-  padding: 2px 6px;
-  width: 15em;
-  background-color: #ddd;
-  border: none;
-  box-shadow: 3px 3px 4px black;
-  cursor: pointer;
-  list-style: none;
-}
-</style>
-
 <div align="center">
 
 <picture>
