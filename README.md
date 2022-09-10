@@ -1,17 +1,10 @@
 
-<div id="header" align="center">
-	<img src="/Imgs/Header.png"/>
-</div>
+<div align="center">
 
-<div id="WIP" align="center">
+<img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="auto" height="auto"/>
 
-_This Profile is still under construction_
-
-</div>
-
-<div id="about" align="center">
-
-# About
+<details>
+  <summary><img src="/Imgs/Sections/About.png" tittle="About" alt="About" width="auto" height="auto"/></summary>
 
 ## <u>Education</u>
 
@@ -125,12 +118,10 @@ Among the books I've read, I would really recommend:
   </tr>
 </table>
 
-</div>
+</details>
 
-<hr>
-<div id="Projects" align="center">
-
-# Projects
+<details>
+  <summary><img src="/Imgs/Sections/Projects.png" tittle="Projects" alt="Projects" width="auto" height="auto"/></summary>
 
 ## <u>Video games</u>
 
@@ -167,7 +158,8 @@ Published on [Tentacle Pulp](https://www.tentaclepulp.com/index1.php?i=0)
 
 Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash)
 
-</div>
+</details>
+
 
 <!--
 
