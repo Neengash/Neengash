@@ -237,5 +237,5 @@ Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash
 </div>
 
 <div align="center">
-<object data="/AbountSVG.svg" width="800" height="auto"> </object>
+<object data="/AboutSVG.svg" width="100%" height="100%"></object>
 </div>
