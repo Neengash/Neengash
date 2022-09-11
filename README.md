@@ -19,7 +19,7 @@
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/Education.png" tittle="Education" alt="Education" width="800" height="auto"/>
+      <img src="/Imgs/Sections/Education.png" tittle="Education" alt="Education" width="500" height="auto"/>
     </picture>
   </summary>
 
@@ -35,7 +35,7 @@
   <details>
     <summary>
       <picture>
-        <img src="/Imgs/Sections/Professional.png" tittle="Professional Experience" alt="Professional Experience" width="800" height="auto"/>
+        <img src="/Imgs/Sections/Professional.png" tittle="Professional Experience" alt="Professional Experience" width="500" height="auto"/>
       </picture>
     </summary>
 
@@ -79,7 +79,7 @@
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/Volunteer.png" tittle="Volunteer Experience" alt="Volunteer Experience" width="800" height="auto"/>
+      <img src="/Imgs/Sections/Volunteer.png" tittle="Volunteer Experience" alt="Volunteer Experience" width="500" height="auto"/>
     </picture>
   </summary>
 
@@ -92,7 +92,7 @@
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/OtherSkills.png" tittle="Other Skills" alt="Other Skills" width="800" height="auto"/>
+      <img src="/Imgs/Sections/OtherSkills.png" tittle="Other Skills" alt="Other Skills" width="500" height="auto"/>
     </picture>
   </summary>
 
@@ -132,7 +132,7 @@ Among the books I've read, I would really recommend:
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/Hobbies.png" tittle="Hobbies" alt="Hobbies" width="800" height="auto"/>
+      <img src="/Imgs/Sections/Hobbies.png" tittle="Hobbies" alt="Hobbies" width="500" height="auto"/>
     </picture>
   </summary>
 
@@ -172,7 +172,7 @@ Among the books I've read, I would really recommend:
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/VideoGames.png" tittle="Video Games" alt="Video Games" width="800" height="auto"/>
+      <img src="/Imgs/Sections/VideoGames.png" tittle="Video Games" alt="Video Games" width="500" height="auto"/>
     </picture>
   </summary>
 
@@ -188,7 +188,7 @@ _I'm also a member of [G4M30V3R-T34M](https://github.com/G4M30V3R-T34M), a group
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/BoardGames.png" tittle="Board Games" alt="Board Games" width="800" height="auto"/>
+      <img src="/Imgs/Sections/BoardGames.png" tittle="Board Games" alt="Board Games" width="500" height="auto"/>
     </picture>
   </summary>
 
@@ -202,7 +202,7 @@ _Among other games I'm currently working on, PEP and Volley Legends are the most
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/3DDesign.png" tittle="3D Design" alt="3D Design" width="800" height="auto"/>
+      <img src="/Imgs/Sections/3DDesign.png" tittle="3D Design" alt="3D Design" width="500" height="auto"/>
     </picture>
   </summary>
 
@@ -219,7 +219,7 @@ _Among other games I'm currently working on, PEP and Volley Legends are the most
 <details>
   <summary>
     <picture>
-      <img src="/Imgs/Sections/Writing.png" tittle="Writing" alt="Writing" width="800" height="auto"/>
+      <img src="/Imgs/Sections/Writing.png" tittle="Writing" alt="Writing" width="500" height="auto"/>
     </picture>
   </summary>
 
