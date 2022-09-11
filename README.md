@@ -228,32 +228,4 @@ Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash
 
 </details>
 
-<details>
-
-  ![Hobbies](/test.svg)
-
-<table>
-  <tr></tr>
-  <tr>
-    <td>Board Games</td>
-    <td>Sports</td>
-    <td>Reading</td>
-  </tr>
-  <tr>
-    <td>Board Game design</td>
-    <td>Climbing</td>
-    <td>Writing</td>
-  </tr>
-  <tr>
-    <td>Video Games</td>
-    <td>Hiking</td>
-    <td>Drawing</td>
-  </tr>
-  <tr>
-    <td>Video Game Design & Development</td>
-    <td>3D Modelling</td>
-    <td>Painting</td>
-  </tr>
-</table>
-
-</details>
+![Test](/test.svg)
