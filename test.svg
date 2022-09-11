@@ -3,7 +3,12 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             </style>
-            <img src="https://github.com/Neengash/Neengash/blob/master/Imgs/Sections/About.png" tittle="about" alt="about" witdh="800" height="auto"/>
+            <defs>
+                <clipPath id="myCircle">
+                    <circle cx="250" cy="145" r="125" fill="#FFFFFF" />
+                </clipPath>
+            </defs>
+            <image width="500" height="350" xlink:href="https://www.tutorialspoint.com/videotutorials/images/coding_ground_home.jpg" clip-path="url(#myCircle)" />
         </div>
     </foreignObject>
 </svg>
