@@ -4,35 +4,25 @@
   <img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="800" height="auto"/>
 </picture>
 
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/About.png" tittle="About" alt="About" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/About.png" tittle="About" alt="About" width="800" height="auto"/>
+</picture>
 
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/Education.png" tittle="Education" alt="Education" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/Education.png" tittle="Education" alt="Education" width="800" height="auto"/>
+</picture>
 
-  **Degree in Computer Engineering (UIB)** 
+**Degree in Computer Engineering (UIB)** 
 
-  **Master's degree in Teacher Training (UIB)**
+**Master's degree in Teacher Training (UIB)**
 
-  **Video game and virtual reality development with Unity 3D [600h] (Tokio School)**
+**Video game and virtual reality development with Unity 3D [600h] (Tokio School)**
 
-  **Video game design [300h] (Tokio School)**
-  </details>
+**Video game design [300h] (Tokio School)**
 
-  <details>
-    <summary>
-      <picture>
-        <img src="/Imgs/Sections/Professional.png" tittle="Professional Experience" alt="Professional Experience" width="800" height="auto"/>
-      </picture>
-    </summary>
+<picture>
+  <img src="/Imgs/Sections/Professional.png" tittle="Professional Experience" alt="Professional Experience" width="800" height="auto"/>
+</picture>
 
   **Developer at habitissimo [3 years]**
 
@@ -69,27 +59,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" tittle="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 
-  </details>
 
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/Volunteer.png" tittle="Volunteer Experience" alt="Volunteer Experience" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/Volunteer.png" tittle="Volunteer Experience" alt="Volunteer Experience" width="800" height="auto"/>
+</picture>
 
 **Outdoor Activities Instructor [4 years]**
 
 **Outdoor Activities Supervisor [1 year]**
 
-</details>
-
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/OtherSkills.png" tittle="Other Skills" alt="Other Skills" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/OtherSkills.png" tittle="Other Skills" alt="Other Skills" width="800" height="auto"/>
+</picture>
 
 _Not all skills have been learned through work experience_
 
@@ -122,14 +103,9 @@ Among the books I've read, I would really recommend:
 	</tr>
 </table>
 
-</details>
-
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/Hobbies.png" tittle="Hobbies" alt="Hobbies" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/Hobbies.png" tittle="Hobbies" alt="Hobbies" width="800" height="auto"/>
+</picture>
 
 <table>
   <tr></tr>
@@ -155,21 +131,13 @@ Among the books I've read, I would really recommend:
   </tr>
 </table>
 
-</details>
-</details>
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/Projects.png" tittle="Projects" alt="Projects" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/Projects.png" tittle="Projects" alt="Projects" width="800" height="auto"/>
+</picture>
 
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/VideoGames.png" tittle="Video Games" alt="Video Games" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/VideoGames.png" tittle="Video Games" alt="Video Games" width="800" height="auto"/>
+</picture>
 
 [<img src="https://static.itch.io/images/logo-black-new.svg" widht="auto" height="50">](https://neengash.itch.io/)
 [<img src="/Imgs/GooglePlay.png" widht="auto" height="50">](https://play.google.com/store/apps/developer?id=Neengash)
@@ -178,28 +146,20 @@ _The code for most of those games can be found in my GitHub repos._
 _Some of them aren't public repos because of the licensing of some assets used._  
 _I'm also a member of [G4M30V3R-T34M](https://github.com/G4M30V3R-T34M), a group of friends who participate in Game Jams_
 
-</details>
 
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/BoardGames.png" tittle="Board Games" alt="Board Games" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/BoardGames.png" tittle="Board Games" alt="Board Games" width="800" height="auto"/>
+</picture>
 
 _Among other games I'm currently working on, PEP and Volley Legends are the most polished ones_ 
 
 <img src="Imgs/BoardGames/pep.jpg" tittle="pep" alt="pep" width="auto" height="150"/>
 <img src="Imgs/BoardGames/volley.jpg" tittle="volley" alt="volley" width="auto" height="150"/>
 
-</details>
 
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/3DDesign.png" tittle="3D Design" alt="3D Design" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/3DDesign.png" tittle="3D Design" alt="3D Design" width="800" height="auto"/>
+</picture>
 
 <img src="Imgs/3D/Robot.png" tittle="robot" alt="robot" width="auto" height="150"/>
 <img src="Imgs/3D/Helmet.png" tittle="helmet" alt="helmet" width="auto" height="150"/>
@@ -209,14 +169,9 @@ _Among other games I'm currently working on, PEP and Volley Legends are the most
 <img src="Imgs/3D/Chip.png" tittle="chip" alt="chip" width="auto" height="150"/>
 <img src="Imgs/3D/Shield.png" tittle="shield" alt="shield" width="auto" height="150"/>
 
-</details>
-
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/Writing.png" tittle="Writing" alt="Writing" width="800" height="auto"/>
-    </picture>
-  </summary>
+<picture>
+  <img src="/Imgs/Sections/Writing.png" tittle="Writing" alt="Writing" width="800" height="auto"/>
+</picture>
 
 _All my short stories are written in Spanish_
 
@@ -225,12 +180,4 @@ Published on [Tentacle Pulp](https://www.tentaclepulp.com/index1.php?i=0)
 
 Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash)
 
-</details>
-
-</details>
-
-</div>
-
-<div align="center">
-    <img src="test2.svg">
 </div>
