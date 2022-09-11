@@ -237,5 +237,5 @@ Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash
 </div>
 
 <div align="center">
-<iframe src="/AboutSVG.svg" width="800"  height="200"></iframe>
+<embed src="/AboutSVG.svg" />
 </div>
