@@ -3,6 +3,7 @@
 <picture>
   <img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="800" height="auto"/>
 </picture>
+
 <details>
   <summary>
     <picture>
@@ -17,58 +18,58 @@
     </picture>
   </summary>
 
-**Degree in Computer Engineering (UIB)** 
+  **Degree in Computer Engineering (UIB)** 
 
-**Master's degree in Teacher Training (UIB)**
+  **Master's degree in Teacher Training (UIB)**
 
-**Video game and virtual reality development with Unity 3D [600h] (Tokio School)**
+  **Video game and virtual reality development with Unity 3D [600h] (Tokio School)**
 
-**Video game design [300h] (Tokio School)**
-</details>
+  **Video game design [300h] (Tokio School)**
+  </details>
 
-<details>
-  <summary>
-    <picture>
-      <img src="/Imgs/Sections/Professional.png" tittle="Professional Experience" alt="Professional Experience" width="800" height="auto"/>
-    </picture>
-  </summary>
+  <details>
+    <summary>
+      <picture>
+        <img src="/Imgs/Sections/Professional.png" tittle="Professional Experience" alt="Professional Experience" width="800" height="auto"/>
+      </picture>
+    </summary>
 
-**Developer at habitissimo [3 years]**
+  **Developer at habitissimo [3 years]**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" tittle="php" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" tittle="symfony" alt="symfony" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" tittle="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="python" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" tittle="pytest" alt="pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" tittle="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" tittle="symfony" alt="symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" tittle="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" tittle="pytest" alt="pytest" width="40" height="40"/>&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" tittle="selenium" alt="selenium" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="docker" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" tittle="jira" alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" tittle="vim" alt="vim" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" tittle="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" tittle="selenium" alt="selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" tittle="jira" alt="jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" tittle="vim" alt="vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" tittle="bash" alt="bash" width="40" height="40"/>&nbsp;
 
-**Developer at Limit Tecnologies [1/2 year]**
+  **Developer at Limit Tecnologies [1/2 year]**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="java" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" tittle="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" tittle="github" alt="github" width="40" height="40"/>&nbsp;
 
-**Developer at TravelgateX [1/2 year]**
+  **Developer at TravelgateX [1/2 year]**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" tittle="c#" alt="c#" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" tittle="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" tittle="c#" alt="c#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" tittle="github" alt="github" width="40" height="40"/>&nbsp;
 
-**Vocational Education Teacher [1 academic year]**
+  **Vocational Education Teacher [1 academic year]**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="docker" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" tittle="php" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" tittle="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 
-</details>
+  </details>
 
 <details>
   <summary>
@@ -227,3 +228,5 @@ Other short stories published on [Wattpad](https://www.wattpad.com/user/Neengash
 </details>
 
 </details>
+
+</div>
