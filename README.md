@@ -169,7 +169,7 @@ _Among other games I'm currently working on, PEP and Volley Legends are the most
 <picture>
   <img src="/Imgs/Sections/3DDesign.png" tittle="3D Design" alt="3D Design" width="500" height="auto"/>
 </picture>
-
+</br>
 
 <img src="Imgs/3D/Robot.png" tittle="robot" alt="robot" width="auto" height="150"/>
 <img src="Imgs/3D/Helmet.png" tittle="helmet" alt="helmet" width="auto" height="150"/>
