@@ -1,12 +1,8 @@
 <div align="center">
 
-<details>
-  <summary style="display:block">
-    <picture>
-      <img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="800" height="auto"/>
-    </picture>
-  </summary>
-</details>
+<picture>
+  <img src="/Imgs/Sections/Name.png" tittle="Neengash" alt="Neengash" width="800" height="auto"/>
+</picture>
 
 <details>
   <summary>
